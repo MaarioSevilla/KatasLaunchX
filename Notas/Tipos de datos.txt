@@ -1,0 +1,5 @@
+
+Tipo	        Descripción	Ejemplo
+Tipo numérico	Número, con o sin decimales	int, float, complex, no = 3
+Tipo de texto	Cadena de caracteres	str = "a literal string"
+Tipo booleano	Booleano	continue = True
